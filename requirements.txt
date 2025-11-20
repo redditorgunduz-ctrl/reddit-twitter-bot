@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+praw
+python-dotenv
+Pillow
+requests
